@@ -16,7 +16,7 @@ An AI-powered personal assistant built using Google Cloud Vertex AI via the Agen
 
 ## 📸 Demo
 
-<img width="1832" height="907" alt="Screenshot 2026-03-20 192147" src="https://github.com/user-attachments/assets/4a597ebb-983c-42dd-ae65-6e60faddd9e8" />
+<img width="1869" height="816" alt="Screenshot 2026-03-20 185013" src="https://github.com/user-attachments/assets/53b43a55-5bbc-4fdf-9538-cb50b6fd41d2" />
 
 
 ---
