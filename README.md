@@ -15,7 +15,9 @@ An AI-powered personal assistant built using Google Cloud Vertex AI via the Agen
 ---
 
 ## 📸 Demo
+## 📸 Demo
 
+Below is the AI Personal Assistant running via ADK web interface:
 <img width="1869" height="816" alt="Screenshot 2026-03-20 185013" src="https://github.com/user-attachments/assets/53b43a55-5bbc-4fdf-9538-cb50b6fd41d2" />
 
 
